@@ -52,7 +52,7 @@
 
 ## 📚 Formação e certificações
 
-- 🎓 **ADS**, Anhembi Morumbi (concluído em 07/2026)
+- 🎓 **ADS**, Anhembi Morumbi (concluído em 06/2026)
 - 🤖 **Bootcamp GenAI, Prompt Engineering e RAG** (05/2026)
 - 📈 **Power BI para Data Science**, Data Science Academy (12/2025)
 - 💻 **Full-Stack**, Universidade TOTVS (12/2024)
